@@ -3,11 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-<<<<<<< HEAD
         <title>23区保育園マップβ版 by Code for Tokyo</title>
-=======
-        <title>東京保育園マップ by Code for Tokyo</title>
->>>>>>> origin/Tokyo_proto
         <link rel="stylesheet" href="css/ol.css" type="text/css">
         <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
         <link rel="stylesheet" href="css/bootstrap.css.map" type="text/css">
@@ -49,6 +45,11 @@
                     <label for="changeBaseMap">背景</label>
                     <select id="changeBaseMap" data-mini="true">
                         <option>背景</option>
+                    </select>
+
+                    <label for="moveToCityhall">区役所</label>
+                    <select id="moveToCityhall" data-mini="true">
+                        <option>区役所</option>
                     </select>
 
                     <label for="moveTo">最寄駅</label>
@@ -176,6 +177,7 @@
         <script src="js/ol_style.js" type="text/javascript"></script>
         <script src="js/movecurrentlocationcontrol.js" type="text/javascript"></script>
         <script src="js/movetolist.js" type="text/javascript"></script>
+        <script src="js/movetocityhall.js" type="text/javascript"></script>
         <script src="js/facilityfilter.js" type="text/javascript"></script>
         <script src="js/papamamap.js" type="text/javascript"></script>
         <script src="js/index.js" type="text/javascript"></script>
