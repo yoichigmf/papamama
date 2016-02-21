@@ -10,7 +10,8 @@
 あるいは、そのような家族や友人を支える人たちの悩みや負担、不安が少しでも軽くなれば。
 
 住む場所と働く場所が必ずしも同じ自治体にあるわけではないし、  
-今とこれからも同じ場所に住んでいるとも限らない。   
+今とこれからも同じ場所に住んでいるとも限らない。
+
 [Tokyo保育園マップ](http://codefortokyo.github.io/tokyohoikuenmap/)は、自治体の境界線を超えて横断的に保育園を探せます。  
 現在は23区のみを対象にしていますが、今後市町村のデータ整備やマップへの掲載も考えています。  
 ※ β版は、検索機能や空き情報はご利用いただけません。
@@ -18,7 +19,7 @@
 Tokyo保育園マップは、[Code for Tokyo](http://codefor.tokyo)の有志によるTokyo保育園マップ作成チームが作成しています。  
 ご協力いただける自治体やNPO、個人を大歓迎しています。
 
-[さっぽろ保育園マップ](http://www.codeforsapporo.org/papamama/)（パパマママップ）をforkして東京版を試作しています。  
+[さっぽろ保育園マップ](http://www.codeforsapporo.org/papamama/)（パパマママップ）をforkしています。  
 
 
 ## 利用している地図について
@@ -40,7 +41,7 @@ www.openstreetmap.org/copyright
 http://nlftp.mlit.go.jp/ksj/index.html
 
 2. 東京都福祉保健局「施設等一覧（保育所等）」  
-- http://www.fukushihoken.metro.tokyo.jp/kiban/fukushi_shisetsu/shs_list/shisetsu_list/itiran.html
+http://www.fukushihoken.metro.tokyo.jp/kiban/fukushi_shisetsu/shs_list/shisetsu_list/itiran.html
 
 3. 東京都福祉保健局「東京都認証保育所一覧（A型・B型）」  
 http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/ninsyo/ichiran.html
@@ -72,6 +73,5 @@ http://codefor.tokyo
 
 
 ## 更新履歴
+2016.2.21 OGPとTwitterカード、Google Analyticsを追記しました。
 2016.2.10 β版を公開しました。
-
-
